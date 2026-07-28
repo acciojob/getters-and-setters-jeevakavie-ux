@@ -20,7 +20,6 @@ class Person {
 	set age(age) {
 		this._age = age;
 	}
-
 }
 
 class Student extends Person {
